@@ -1,6 +1,2 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-console.log("Hello Word");
-let user = "gautam";
-console.log(user);
+import './solid/1srp.js';
 //# sourceMappingURL=index.js.map
